@@ -1,0 +1,6 @@
+- packages to structure code better
+- cleanup imports and unnecessary empty lines
+- indentation and code conventions
+- readIssue should be called: readIssues sau readBoard
+- other logic changes were done on the service. Check the code: restructure code so that we work easier with Issues and their children.
+Look at the objects as children while it's important, then look at them as the parent so we can write common code for them

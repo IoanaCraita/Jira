@@ -5,8 +5,6 @@ public abstract class Issue {
    private String assignee;
    private String description;
 
-
-
    public void print() {
        System.out.println(name + " " + assignee + " " + description);
    }
